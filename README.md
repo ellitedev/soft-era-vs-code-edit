@@ -19,7 +19,7 @@ Fork of the amazing [soft era](https://github.com/soft-aesthetic/soft-era-vs-cod
 
 ## Installation
 
-- Click **Install** on the [VS Code marketplace page for **soft era**](https://marketplace.visualstudio.com/items?itemName=soft-aesthetic.soft-era-theme)
+- Click **Install** on the [VS Code marketplace page for **soft era edit**](https://marketplace.visualstudio.com/items?itemName=ellitedev.soft-era-edit)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**or**
 
