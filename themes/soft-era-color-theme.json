@@ -13,7 +13,7 @@
 #ffffff
 #fdfbfb
 #ebedf3
-#e3e6ed
+#fce9f0
 #9c9c9c
 #666d7d
 #cfcccc
@@ -99,14 +99,14 @@ cute pairs:
     "scrollbarSlider.activeBackground": "#e4bcbf7a",
     "widget.shadow": "#94848422",
 
-    "sideBar.background": "#e3e6ed",
+    "sideBar.background": "#fce9f0",
     "sideBar.foreground": "#666d7dbb", // also used in command pallete/list???
-    "sideBar.border": "#e3e6ed",
+    "sideBar.border": "#fce9f0",
     // "sideBarSectionHeader.background": "#d5d9e2",
     "sideBarSectionHeader.background": "#ffffff2e",
     // "sideBarSectionHeader.background": "#d5d9e2",
     "sideBarSectionHeader.foreground": "#666d7ddd",
-    "sideBarSectionHeader.border": "#e3e6ed",
+    "sideBarSectionHeader.border": "#fce9f0",
     "sideBar.dropBackground": "#fdfbfb",
     "sideBarTitle.foreground": "#666d7d",
     "list.activeSelectionForeground": "#ffffff",
@@ -133,12 +133,12 @@ cute pairs:
     // "list.warningForeground": "#d9c8c8", // soft-yellow-darker
     // "list.warningForeground": "#d1bebe", // soft-yellow-darker
 
-    "statusBar.background": "#e3e6ed",
-    "statusBar.noFolderBackground": "#e3e6ed",
-    "statusBar.debuggingBackground": "#e3e6ed",
+    "statusBar.background": "#fce9f0",
+    "statusBar.noFolderBackground": "#fce9f0",
+    "statusBar.debuggingBackground": "#fce9f0",
     "statusBar.foreground": "#666d7d",
 
-    "activityBar.background": "#e3e6ed",
+    "activityBar.background": "#fce9f0",
     "activityBar.foreground": "#666d7dcc",
     // "activityBar.foreground": "#958ac5",
     "activityBar.inactiveForeground": "#666d7d44",
@@ -148,7 +148,7 @@ cute pairs:
     // "activityBar.border": "#ff0000",
     "activityBar.dropBackground": "#fdfbfb",
 
-    "menu.background": "#e3e6ed",
+    "menu.background": "#fce9f0",
     "menu.foreground": "#666d7d",
     "menu.selectionForeground": "#fbfbfb",
     "menu.selectionBackground": "#b4addf",
@@ -159,8 +159,8 @@ cute pairs:
 
     // "titleBar.activeForeground": "#666d7d",
     "titleBar.activeForeground": "#4a4543d2",
-    "titleBar.activeBackground": "#e3e6ed",
-    "titleBar.inactiveBackground": "#e3e6ed",
+    "titleBar.activeBackground": "#fce9f0",
+    "titleBar.inactiveBackground": "#fce9f0",
     "titleBar.inactiveForeground": "#9c9c9c",
 
     "badge.background": "#eeaabe",
@@ -175,14 +175,14 @@ cute pairs:
     "breadcrumbPicker.background": "#fbfbfb",
 
     "editorGroup.emptyBackground": "#ECECF0",
-    // "editorGroupHeader.tabsBackground": "#e3e6ed",
+    // "editorGroupHeader.tabsBackground": "#fce9f0",
     // "editorGroupHeader.tabsBackground": "#f9f5f488",
     // "editorGroupHeader.tabsBackground": "#ECECEC",
     // "editorGroupHeader.tabsBackground": "#ECECF0",
-    "editorGroupHeader.tabsBackground": "#e3e6ed",
-    // "tab.border": "#e3e6ed",
+    "editorGroupHeader.tabsBackground": "#fce9f0",
+    // "tab.border": "#fce9f0",
     // "tab.border": "#ECECEC",
-    // "tab.border": "#e3e6ed",
+    // "tab.border": "#fce9f0",
     "tab.border": "#d9dee7",
     "tab.activeBorder": "#f9f5f4",
     // "tab.activeBorderTop": "#b4addf",
@@ -196,11 +196,11 @@ cute pairs:
     // "tab.activeForeground": "#c98b9e",
     // "tab.activeForeground": "#4a4543d2",
     "tab.activeForeground": "#4a4543",
-    // "tab.inactiveBackground": "#e3e6ed",
+    // "tab.inactiveBackground": "#fce9f0",
     // "tab.inactiveBackground": "#f9f5f488",
     // "tab.inactiveBackground": "#ECECEC",
     // "tab.inactiveBackground": "#f9f5f466",
-    // "tab.inactiveBackground": "#e3e6ed",
+    // "tab.inactiveBackground": "#fce9f0",
     "tab.inactiveBackground": "#ECECF0",
     "tab.inactiveForeground": "#666d7dbb",
     // "tab.hoverBackground": "#ff0000",
@@ -408,7 +408,7 @@ cute pairs:
     //
     // Panels and Terminal
     //
-    // #f9f5f4 #e3e6ed44 #e3e6ed66 #e3e6ed99
+    // #f9f5f4 #fce9f044 #fce9f066 #fce9f099
     // "panel.background": "#f3f1f3",
     // "panel.background": "#f3f1f3",
     // "panel.background": "#f0eff2",
@@ -450,5 +450,5 @@ cute pairs:
     "terminal.ansiBrightCyan": "#b4addf",
     "terminal.ansiBrightWhite": "#ffffff"
   },
-  "name": "soft era"
+  "name": "soft era (ellite edit)"
 }
